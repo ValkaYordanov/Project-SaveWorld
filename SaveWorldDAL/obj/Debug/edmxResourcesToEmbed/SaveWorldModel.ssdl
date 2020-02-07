@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SaveWorldModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="auser">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="75" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="400" Nullable="false" />
+    <Property Name="salt" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="typeOfUser" Type="int" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="address" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="phoneno" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="accountId" Type="int" />
+    <Property Name="rowVersion" Type="timestamp" StoreGeneratedPattern="Computed" Nullable="false" />
+  </EntityType>
+  <EntityType Name="bankAccount">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="accountNo" Type="int" Nullable="false" />
+    <Property Name="expiryDate" Type="date" Nullable="false" />
+    <Property Name="ccv" Type="int" Nullable="false" />
+    <Property Name="amount" Type="decimal" Precision="38" Scale="2" Nullable="false" />
+    <Property Name="rowVersion" Type="timestamp" StoreGeneratedPattern="Computed" Nullable="false" />
+  </EntityType>
+  <EntityType Name="category">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nameOfCategory" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="disaster">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="disasterName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="description" Type="varchar" MaxLength="5000" Nullable="false" />
+    <Property Name="region" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="categoryId" Type="int" />
+    <Property Name="priority" Type="int" Nullable="false" />
+    <Property Name="victims" Type="int" Nullable="false" />
+    <Property Name="accountId" Type="int" />
+    <Property Name="rowVersion" Type="timestamp" StoreGeneratedPattern="Computed" Nullable="false" />
+  </EntityType>
+  <EntityType Name="invoice">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="invoiceNo" Type="int" Nullable="false" />
+    <Property Name="paymentDate" Type="date" Nullable="false" />
+    <Property Name="amount" Type="float" Nullable="false" />
+    <Property Name="orderId" Type="int" />
+  </EntityType>
+  <EntityType Name="orderLine">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="productId" Type="int" />
+    <Property Name="quantity" Type="int" Nullable="false" />
+    <Property Name="orderId" Type="int" />
+    <Property Name="price" Type="decimal" Precision="38" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="productName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="price" Type="decimal" Precision="38" Scale="2" Nullable="false" />
+    <Property Name="description" Type="varchar" MaxLength="5000" Nullable="false" />
+    <Property Name="minStock" Type="int" Nullable="false" />
+    <Property Name="rowVersion" Type="timestamp" StoreGeneratedPattern="Computed" Nullable="false" />
+  </EntityType>
+  <EntityType Name="productPropertyValues">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="propertyValuesId" Type="int" />
+    <Property Name="productId" Type="int" />
+  </EntityType>
+  <EntityType Name="property">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="sortOrder" Type="int" Nullable="false" />
+    <Property Name="propertyValuesId" Type="int" />
+  </EntityType>
+  <EntityType Name="propertyValues">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="value" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="subscription">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="typeOfSubscriptionId" Type="int" />
+    <Property Name="amount" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="startDate" Type="date" Nullable="false" />
+    <Property Name="userID" Type="int" />
+  </EntityType>
+  <EntityType Name="tbOrder">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="userId" Type="int" />
+    <Property Name="date" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="typeOfSubscription">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="periodOfTimeInDays" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__auser__accountId__503CB573">
+    <End Role="bankAccount" Type="Self.bankAccount" Multiplicity="0..1" />
+    <End Role="auser" Type="Self.auser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="bankAccount">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="auser">
+        <PropertyRef Name="accountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__disaster__accoun__662BF692">
+    <End Role="bankAccount" Type="Self.bankAccount" Multiplicity="0..1" />
+    <End Role="disaster" Type="Self.disaster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="bankAccount">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="disaster">
+        <PropertyRef Name="accountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__disaster__catego__6537D259">
+    <End Role="category" Type="Self.category" Multiplicity="0..1" />
+    <End Role="disaster" Type="Self.disaster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="category">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="disaster">
+        <PropertyRef Name="categoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__invoice__orderId__60731D3C">
+    <End Role="tbOrder" Type="Self.tbOrder" Multiplicity="0..1" />
+    <End Role="invoice" Type="Self.invoice" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbOrder">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="invoice">
+        <PropertyRef Name="orderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__orderLine__order__5D96B091">
+    <End Role="tbOrder" Type="Self.tbOrder" Multiplicity="0..1" />
+    <End Role="orderLine" Type="Self.orderLine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbOrder">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="orderLine">
+        <PropertyRef Name="orderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__orderLine__produ__5CA28C58">
+    <End Role="product" Type="Self.product" Multiplicity="0..1" />
+    <End Role="orderLine" Type="Self.orderLine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="orderLine">
+        <PropertyRef Name="productId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__productPr__produ__6FB560CC">
+    <End Role="product" Type="Self.product" Multiplicity="0..1" />
+    <End Role="productPropertyValues" Type="Self.productPropertyValues" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="productPropertyValues">
+        <PropertyRef Name="productId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__productPr__prope__6EC13C93">
+    <End Role="propertyValues" Type="Self.propertyValues" Multiplicity="0..1" />
+    <End Role="productPropertyValues" Type="Self.productPropertyValues" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="propertyValues">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="productPropertyValues">
+        <PropertyRef Name="propertyValuesId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__property__proper__57DDD73B">
+    <End Role="propertyValues" Type="Self.propertyValues" Multiplicity="0..1" />
+    <End Role="property" Type="Self.property" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="propertyValues">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="property">
+        <PropertyRef Name="propertyValuesId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__subscript__typeO__6AF0ABAF">
+    <End Role="typeOfSubscription" Type="Self.typeOfSubscription" Multiplicity="0..1" />
+    <End Role="subscription" Type="Self.subscription" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="typeOfSubscription">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="subscription">
+        <PropertyRef Name="typeOfSubscriptionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__subscript__userI__6BE4CFE8">
+    <End Role="auser" Type="Self.auser" Multiplicity="0..1" />
+    <End Role="subscription" Type="Self.subscription" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="auser">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="subscription">
+        <PropertyRef Name="userID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbOrder__userId__5319221E">
+    <End Role="auser" Type="Self.auser" Multiplicity="0..1" />
+    <End Role="tbOrder" Type="Self.tbOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="auser">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="tbOrder">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SaveWorldModelStoreContainer">
+    <EntitySet Name="auser" EntityType="Self.auser" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="bankAccount" EntityType="Self.bankAccount" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="category" EntityType="Self.category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="disaster" EntityType="Self.disaster" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="invoice" EntityType="Self.invoice" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="orderLine" EntityType="Self.orderLine" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="product" EntityType="Self.product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="productPropertyValues" EntityType="Self.productPropertyValues" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="property" EntityType="Self.property" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="propertyValues" EntityType="Self.propertyValues" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="subscription" EntityType="Self.subscription" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbOrder" EntityType="Self.tbOrder" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="typeOfSubscription" EntityType="Self.typeOfSubscription" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__auser__accountId__503CB573" Association="Self.FK__auser__accountId__503CB573">
+      <End Role="bankAccount" EntitySet="bankAccount" />
+      <End Role="auser" EntitySet="auser" />
+    </AssociationSet>
+    <AssociationSet Name="FK__disaster__accoun__662BF692" Association="Self.FK__disaster__accoun__662BF692">
+      <End Role="bankAccount" EntitySet="bankAccount" />
+      <End Role="disaster" EntitySet="disaster" />
+    </AssociationSet>
+    <AssociationSet Name="FK__disaster__catego__6537D259" Association="Self.FK__disaster__catego__6537D259">
+      <End Role="category" EntitySet="category" />
+      <End Role="disaster" EntitySet="disaster" />
+    </AssociationSet>
+    <AssociationSet Name="FK__invoice__orderId__60731D3C" Association="Self.FK__invoice__orderId__60731D3C">
+      <End Role="tbOrder" EntitySet="tbOrder" />
+      <End Role="invoice" EntitySet="invoice" />
+    </AssociationSet>
+    <AssociationSet Name="FK__orderLine__order__5D96B091" Association="Self.FK__orderLine__order__5D96B091">
+      <End Role="tbOrder" EntitySet="tbOrder" />
+      <End Role="orderLine" EntitySet="orderLine" />
+    </AssociationSet>
+    <AssociationSet Name="FK__orderLine__produ__5CA28C58" Association="Self.FK__orderLine__produ__5CA28C58">
+      <End Role="product" EntitySet="product" />
+      <End Role="orderLine" EntitySet="orderLine" />
+    </AssociationSet>
+    <AssociationSet Name="FK__productPr__produ__6FB560CC" Association="Self.FK__productPr__produ__6FB560CC">
+      <End Role="product" EntitySet="product" />
+      <End Role="productPropertyValues" EntitySet="productPropertyValues" />
+    </AssociationSet>
+    <AssociationSet Name="FK__productPr__prope__6EC13C93" Association="Self.FK__productPr__prope__6EC13C93">
+      <End Role="propertyValues" EntitySet="propertyValues" />
+      <End Role="productPropertyValues" EntitySet="productPropertyValues" />
+    </AssociationSet>
+    <AssociationSet Name="FK__property__proper__57DDD73B" Association="Self.FK__property__proper__57DDD73B">
+      <End Role="propertyValues" EntitySet="propertyValues" />
+      <End Role="property" EntitySet="property" />
+    </AssociationSet>
+    <AssociationSet Name="FK__subscript__typeO__6AF0ABAF" Association="Self.FK__subscript__typeO__6AF0ABAF">
+      <End Role="typeOfSubscription" EntitySet="typeOfSubscription" />
+      <End Role="subscription" EntitySet="subscription" />
+    </AssociationSet>
+    <AssociationSet Name="FK__subscript__userI__6BE4CFE8" Association="Self.FK__subscript__userI__6BE4CFE8">
+      <End Role="auser" EntitySet="auser" />
+      <End Role="subscription" EntitySet="subscription" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbOrder__userId__5319221E" Association="Self.FK__tbOrder__userId__5319221E">
+      <End Role="auser" EntitySet="auser" />
+      <End Role="tbOrder" EntitySet="tbOrder" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

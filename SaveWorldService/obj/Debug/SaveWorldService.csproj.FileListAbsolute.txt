@@ -1,0 +1,40 @@
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\obj\Debug\SaveWorldService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\obj\Debug\SaveWorldService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\SaveWorldService.dll.config
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\SaveWorldService.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\SaveWorldService.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\SaveWorld.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\SaveWorldController.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\SaveWorldDAL.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\SaveWorldController.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\SaveWorldController.dll.config
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\SaveWorld.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\SaveWorldDAL.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\bin\Debug\SaveWorldDAL.dll.config
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\obj\Debug\SaveWorldService.csproj.CopyComplete
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\obj\Debug\SaveWorldService.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldService\obj\Debug\SaveWorldService.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\SaveWorldService.dll.config
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\SaveWorldService.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\SaveWorldService.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\SaveWorld.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\SaveWorldController.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\SaveWorldDAL.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\SaveWorldController.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\SaveWorldController.dll.config
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\SaveWorld.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\SaveWorldDAL.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\bin\Debug\SaveWorldDAL.dll.config
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\obj\Debug\SaveWorldService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\obj\Debug\SaveWorldService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\obj\Debug\SaveWorldService.csproj.CopyComplete
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\obj\Debug\SaveWorldService.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldService\obj\Debug\SaveWorldService.pdb

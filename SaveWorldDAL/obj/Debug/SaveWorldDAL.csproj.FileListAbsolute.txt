@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\bin\Debug\SaveWorldDAL.dll.config
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\bin\Debug\SaveWorldDAL.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\bin\Debug\SaveWorldDAL.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\obj\Debug\SaveWorldDAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\obj\Debug\SaveWorldDAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\obj\Debug\SaveWorldDAL.csproj.CopyComplete
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\obj\Debug\SaveWorldDAL.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\obj\Debug\SaveWorldDAL.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\bin\Debug\SaveWorld.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldDAL\bin\Debug\SaveWorld.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\bin\Debug\SaveWorldDAL.dll.config
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\bin\Debug\SaveWorldDAL.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\bin\Debug\SaveWorldDAL.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\bin\Debug\SaveWorld.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\bin\Debug\SaveWorld.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\obj\Debug\SaveWorldDAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\obj\Debug\SaveWorldDAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\obj\Debug\SaveWorldDAL.csproj.CopyComplete
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\obj\Debug\SaveWorldDAL.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldDAL\obj\Debug\SaveWorldDAL.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorld\bin\Debug\SaveWorld.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorld\bin\Debug\SaveWorld.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorld\obj\Debug\SaveWorldModel.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorld\obj\Debug\SaveWorldModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorld\obj\Debug\SaveWorld.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorld\obj\Debug\SaveWorld.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorld\bin\Debug\SaveWorld.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorld\bin\Debug\SaveWorld.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorld\obj\Debug\SaveWorldModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorld\obj\Debug\SaveWorld.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorld\obj\Debug\SaveWorld.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorld\obj\Debug\SaveWorldModel.csprojAssemblyReference.cache

@@ -1,0 +1,34 @@
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\bin\Debug\SaveWorldController.dll.config
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\bin\Debug\SaveWorldController.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\bin\Debug\SaveWorldController.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\bin\Debug\SaveWorld.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\bin\Debug\SaveWorldDAL.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\bin\Debug\SaveWorldDAL.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\bin\Debug\SaveWorldDAL.dll.config
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\bin\Debug\SaveWorld.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\obj\Debug\SaveWorldController.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\obj\Debug\SaveWorldController.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\obj\Debug\SaveWorldController.csproj.CopyComplete
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\obj\Debug\SaveWorldController.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldController\obj\Debug\SaveWorldController.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\bin\Debug\SaveWorldController.dll.config
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\bin\Debug\SaveWorldController.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\bin\Debug\SaveWorldController.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\bin\Debug\SaveWorld.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\bin\Debug\SaveWorldDAL.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\bin\Debug\SaveWorldDAL.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\bin\Debug\SaveWorldDAL.dll.config
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\bin\Debug\SaveWorld.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\obj\Debug\SaveWorldController.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\obj\Debug\SaveWorldController.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\obj\Debug\SaveWorldController.csproj.CopyComplete
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\obj\Debug\SaveWorldController.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldController\obj\Debug\SaveWorldController.pdb

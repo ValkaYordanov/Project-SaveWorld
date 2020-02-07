@@ -1,0 +1,83 @@
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldWPFClient.exe.config
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldWPFClient.exe
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldWPFClient.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient_MarkupCompile.cache
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient_MarkupCompile.lref
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.g.resources
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.Properties.Resources.resources
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.exe
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\LogInPage.g.cs
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\MainPage.g.cs
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\RegistrationPage.g.cs
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\ShopPage.g.cs
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\LogInPage.baml
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\MainPage.baml
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\RegistrationPage.baml
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\ShopPage.baml
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldController.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorld.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldDAL.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldController.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldController.dll.config
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorld.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldDAL.pdb
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldDAL.dll.config
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Programming UCN\3rd Semester\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.csproj.CopyComplete
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldWPFClient.exe.config
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldWPFClient.exe
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldWPFClient.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldController.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldDAL.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldController.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldController.dll.config
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldDAL.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldDAL.dll.config
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\LogInPage.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\MainPage.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\RegistrationPage.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\ShopPage.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient_MarkupCompile.cache
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient_MarkupCompile.lref
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\LogInPage.baml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\MainPage.baml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\RegistrationPage.baml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\ShopPage.baml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.g.resources
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.Properties.Resources.resources
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.csproj.CopyComplete
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.exe
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\DisasterPage.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\DisasterPage.baml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\ManageDisasterPage.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\ManageProductsPage.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\ManageUserPage.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\ManageWindow.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\ManageDisasterPage.baml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\ManageProductsPage.baml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\ManageUserPage.baml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\ManageWindow.baml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\ProfileWindow.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\ProfileWindow.baml
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\SaveWorldWPFClient.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldService.dll
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldService.pdb
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\bin\Debug\SaveWorldService.dll.config
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\SubscriptionPage.g.cs
+C:\Users\User\Desktop\SaveTheWorld\SaveWorld\SaveWorldWPFClient\obj\Debug\SubscriptionPage.baml

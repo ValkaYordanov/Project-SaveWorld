@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SaveWorldModelStoreContainer" CdmEntityContainer="SaveWorldEntities">
+    <EntitySetMapping Name="auser">
+      <EntityTypeMapping TypeName="SaveWorldModel.auser">
+        <MappingFragment StoreEntitySet="auser">
+          <ScalarProperty Name="salt" ColumnName="salt" />
+          <ScalarProperty Name="rowVersion" ColumnName="rowVersion" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="typeOfUser" ColumnName="typeOfUser" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="phoneno" ColumnName="phoneno" />
+          <ScalarProperty Name="accountId" ColumnName="accountId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="bankAccount">
+      <EntityTypeMapping TypeName="SaveWorldModel.bankAccount">
+        <MappingFragment StoreEntitySet="bankAccount">
+          <ScalarProperty Name="rowVersion" ColumnName="rowVersion" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="accountNo" ColumnName="accountNo" />
+          <ScalarProperty Name="expiryDate" ColumnName="expiryDate" />
+          <ScalarProperty Name="ccv" ColumnName="ccv" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="category">
+      <EntityTypeMapping TypeName="SaveWorldModel.category">
+        <MappingFragment StoreEntitySet="category">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nameOfCategory" ColumnName="nameOfCategory" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="disaster">
+      <EntityTypeMapping TypeName="SaveWorldModel.disaster">
+        <MappingFragment StoreEntitySet="disaster">
+          <ScalarProperty Name="rowVersion" ColumnName="rowVersion" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="disasterName" ColumnName="disasterName" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="region" ColumnName="region" />
+          <ScalarProperty Name="categoryId" ColumnName="categoryId" />
+          <ScalarProperty Name="priority" ColumnName="priority" />
+          <ScalarProperty Name="victims" ColumnName="victims" />
+          <ScalarProperty Name="accountId" ColumnName="accountId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="invoice">
+      <EntityTypeMapping TypeName="SaveWorldModel.invoice">
+        <MappingFragment StoreEntitySet="invoice">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="invoiceNo" ColumnName="invoiceNo" />
+          <ScalarProperty Name="paymentDate" ColumnName="paymentDate" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="orderId" ColumnName="orderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="orderLine">
+      <EntityTypeMapping TypeName="SaveWorldModel.orderLine">
+        <MappingFragment StoreEntitySet="orderLine">
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="productId" ColumnName="productId" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+          <ScalarProperty Name="orderId" ColumnName="orderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="product">
+      <EntityTypeMapping TypeName="SaveWorldModel.product">
+        <MappingFragment StoreEntitySet="product">
+          <ScalarProperty Name="rowVersion" ColumnName="rowVersion" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="productName" ColumnName="productName" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="minStock" ColumnName="minStock" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="productPropertyValues">
+      <EntityTypeMapping TypeName="SaveWorldModel.productPropertyValues">
+        <MappingFragment StoreEntitySet="productPropertyValues">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="propertyValuesId" ColumnName="propertyValuesId" />
+          <ScalarProperty Name="productId" ColumnName="productId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="property">
+      <EntityTypeMapping TypeName="SaveWorldModel.property">
+        <MappingFragment StoreEntitySet="property">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="sortOrder" ColumnName="sortOrder" />
+          <ScalarProperty Name="propertyValuesId" ColumnName="propertyValuesId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="propertyValues">
+      <EntityTypeMapping TypeName="SaveWorldModel.propertyValues">
+        <MappingFragment StoreEntitySet="propertyValues">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="value" ColumnName="value" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="subscription">
+      <EntityTypeMapping TypeName="SaveWorldModel.subscription">
+        <MappingFragment StoreEntitySet="subscription">
+          <ScalarProperty Name="userID" ColumnName="userID" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="typeOfSubscriptionId" ColumnName="typeOfSubscriptionId" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="startDate" ColumnName="startDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbOrder">
+      <EntityTypeMapping TypeName="SaveWorldModel.tbOrder">
+        <MappingFragment StoreEntitySet="tbOrder">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="date" ColumnName="date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="typeOfSubscription">
+      <EntityTypeMapping TypeName="SaveWorldModel.typeOfSubscription">
+        <MappingFragment StoreEntitySet="typeOfSubscription">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="periodOfTimeInDays" ColumnName="periodOfTimeInDays" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
